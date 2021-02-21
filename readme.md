@@ -52,6 +52,5 @@ sudo apt install stress-ng mesa-utils
 ```
 and put load onto the CPU with this command
 ```
-```
 stress-ng --cpu 0 --cpu-method fft
 ```
